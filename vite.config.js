@@ -4,6 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],  // since we selected react as an option from the vite menu
+  base: '/Job_Portal_React_Full/',
   server: {         // to change the port from default 5000 to more commanly used 3000
     port: 3000,
     proxy: {
