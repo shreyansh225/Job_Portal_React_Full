@@ -81,11 +81,22 @@ Open a new terminal
 
 
 8. Git setup
--> npm install gh-pages --save-dev
+-> npm install gh-pages --save-dev     ->  For ease of using git through VsCode Terminal
 -> In terminal type -> git init
 -> git add .
+-> git status
 -> git commit -m "Initial commit" 
 -> git remote add origin https://github.com/shreyansh225/Job_Portal_React_Full.git
 -> git remote -v
 -> git push -u origin main
+-> git fetch origin
+-> git merge origin/main --allow-unrelated-histories
+
+9. For Build and deployment on github.io 
+-> npm install concurrently --save-dev      -> To ensure your backend server is running as part of the deployment process in a controlled way, you can use concurrently to handle running multiple commands in parallel. However, it's important to manage long-running processes correctly to avoid any issues during deployment.
+-> "scripts": {
+    "predeploy": "concurrently --kill-others-on-fail \"npm run server\" \"npm run build\"",
+    "deploy": "gh-pages -d build",
+-> after this step then git add . , commit all the changes 
+-> npm run deploy
 
