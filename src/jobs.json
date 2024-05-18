@@ -1,0 +1,1768 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Dev",
+      "type": "Full-Time",
+      "location": "Bangalore, India",
+      "description": "We are seeking a talented Front-End Developer to join our team in Bangalore, India. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "salary": "$90K - $120K",
+      "company": {
+        "name": "TechSol",
+        "description": "TechSol is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@techsol.com",
+        "contactPhone": "91-123-456-7890"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Mumbai, India",
+      "description": "Join our team as a Front-End Developer in vibrant Mumbai, India. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "VistaSolutions",
+        "description": "VistaSolutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@vistasolutions.com",
+        "contactPhone": "91-987-654-3210"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Delhi, India",
+      "description": "Are you passionate about front-end development? Join our team in dynamic Delhi, India, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "$70K - $90K",
+      "company": {
+        "name": "Digitech Solutions",
+        "description": "Digitech Solutions is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@digitechsolutions.com",
+        "contactPhone": "91-135-792-4680"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in scenic Goa, India. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Goa, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "TechPulse",
+        "description": "TechPulse is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@techpulse.com",
+        "contactPhone": "91-456-789-1230"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Hyderabad, India. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Hyderabad, India",
+      "salary": "$100K - $130K",
+      "company": {
+        "name": "EagleEye Technologies",
+        "description": "EagleEye Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@eagleeyetech.com",
+        "contactPhone": "91-789-123-4560"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Chennai, India. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Chennai, India",
+      "salary": "$110K - $140K",
+      "company": {
+        "name": "DataWave Solutions",
+        "description": "DataWave Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@datawavesolutions.com",
+        "contactPhone": "91-159-753-8520"
+      }
+    },
+    {
+      "id": "7",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a DevOps Engineer in bustling Pune, India. We are seeking an experienced individual to optimize our development and deployment processes. Strong skills in automation, CI/CD, and cloud platforms are required.",
+      "location": "Pune, India",
+      "salary": "$120K - $150K",
+      "company": {
+        "name": "CloudCom Solutions",
+        "description": "CloudCom Solutions is a leading provider of cloud-based solutions for businesses worldwide. Our team is dedicated to delivering innovative and reliable services to our clients.",
+        "contactEmail": "contact@cloudcomsolutions.com",
+        "contactPhone": "91-357-951-8640"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Machine Learning Engineer to join our AI team in Mumbai, India. We are looking for a highly skilled individual with expertise in machine learning algorithms and data analysis.",
+      "location": "Mumbai, India",
+      "salary": "$130K - $160K",
+      "company": {
+        "name": "AISolutions",
+        "description": "AISolutions is a cutting-edge technology company specializing in artificial intelligence and machine learning. We are dedicated to pushing the boundaries of AI to solve complex problems.",
+        "contactEmail": "contact@aisolutions.com",
+        "contactPhone": "91-258-369-1470"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Full-Stack Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Full-Stack Developer in tech hub Bengaluru, India. We are seeking a versatile individual with experience in both front-end and back-end development. Strong skills in JavaScript, Node.js, and database management are required.",
+      "location": "Bengaluru, India",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "TechFusion",
+        "description": "TechFusion is a technology consulting firm specializing in software development and IT services. Our team is dedicated to delivering high-quality solutions to our clients.",
+        "contactEmail": "contact@techfusion.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Cyber Security Analyst",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Cyber Security Analyst to join our team in Delhi, India. We are seeking an experienced individual to help protect our organization from cyber threats. Strong knowledge of security protocols and risk assessment is required.",
+      "location": "Delhi, India",
+      "salary": "$60K - $80K",
+      "company": {
+        "name": "SecuroTech",
+        "description": "SecuroTech is a leading provider of cybersecurity services for government and private sector clients. We are committed to keeping our clients safe from cyber threats.",
+        "contactEmail": "contact@securotech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Marketing Manager",
+      "type": "Full-Time",
+      "description": "Join our marketing team in dynamic Delhi, India, as a Marketing Manager. We are seeking a creative and strategic individual to develop and execute marketing campaigns. Strong skills in digital marketing and analytics are required.",
+      "location": "Delhi, India",
+      "salary": "$70K - $90K",
+      "company": {
+        "name": "StratMark Solutions",
+        "description": "StratMark Solutions is a full-service marketing agency specializing in digital and traditional marketing strategies. We are dedicated to helping our clients achieve their marketing goals.",
+        "contactEmail": "contact@stratmarksolutions.com",
+        "contactPhone": "91-852-963-7410"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Data Analyst",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Data Analyst to join our analytics team in tech-savvy Hyderabad, India. We are seeking an analytical and detail-oriented individual to analyze data and generate insights. Strong skills in SQL, Python, and data visualization tools are required.",
+      "location": "Hyderabad, India",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "DataInsights",
+        "description": "DataInsights is a data analytics firm specializing in providing actionable insights to businesses. We are committed to helping our clients make data-driven decisions.",
+        "contactEmail": "contact@datainsights.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Business Analyst",
+      "type": "Full-Time",
+      "description": "Join our team as a Business Analyst in bustling Bengaluru, India. We are seeking a strategic thinker with strong analytical skills to help drive business decisions. Experience in market research and financial analysis is highly desirable.",
+      "location": "Bengaluru, India",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "BizSolutions",
+        "description": "BizSolutions is a business consulting firm specializing in helping companies improve their operations and profitability. Our team is dedicated to delivering actionable insights to our clients.",
+        "contactEmail": "contact@bizsolutions.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "14",
+      "title": "AI/ML Research Scientist",
+      "type": "Full-Time",
+      "description": "Join our research team in tech hub Bengaluru, India, as an AI/ML Research Scientist. We are seeking a highly motivated individual with a strong background in machine learning and deep learning. Experience with TensorFlow, PyTorch, and research publications is desirable.",
+      "location": "Bengaluru, India",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "InnovateAI",
+        "description": "InnovateAI is a research-focused company specializing in cutting-edge AI technologies. We are committed to advancing the field of artificial intelligence through innovative research and development.",
+        "contactEmail": "contact@innovateai.com",
+        "contactPhone": "91-852-963-7410"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Cloud Solutions Architect",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Cloud Solutions Architect to join our team in tech hub Bengaluru, India. We are seeking an experienced individual to design and implement scalable cloud solutions. Strong knowledge of AWS, Azure, or Google Cloud Platform is required.",
+      "location": "Bengaluru, India",
+      "salary": "$150K - $180K",
+      "company": {
+        "name": "CloudGenius",
+        "description": "CloudGenius is a leading provider of cloud consulting services for businesses. Our team is dedicated to delivering innovative and cost-effective solutions to our clients.",
+        "contactEmail": "contact@cloudgenius.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Senior Software Engineer (Java)",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Senior Software Engineer to join our team in Hyderabad, India. We are seeking a highly skilled individual with expertise in Java development. Experience with Spring Boot, Hibernate, and microservices architecture is desirable.",
+      "location": "Hyderabad, India",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "JavaTech",
+        "description": "JavaTech is a leading technology company specializing in Java-based solutions. We are dedicated to delivering high-quality software products to our clients.",
+        "contactEmail": "contact@javatech.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "17",
+      "title": "UI/UX Designer",
+      "type": "Full-Time",
+      "description": "Join our design team in vibrant Mumbai, India, as a UI/UX Designer. We are seeking a creative individual with a passion for user-centered design. Strong skills in Adobe XD, Sketch, or Figma are required.",
+      "location": "Mumbai, India",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "DesignWorks",
+        "description": "DesignWorks is a design agency specializing in creating engaging and intuitive user experiences. We are dedicated to helping our clients achieve their design goals.",
+        "contactEmail": "contact@designworks.com",
+        "contactPhone": "91-852-963-7410"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Python Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Python Developer to join our team in tech hub Bengaluru, India. We are seeking a skilled individual with experience in Python programming. Knowledge of Django or Flask frameworks is desirable.",
+      "location": "Bengaluru, India",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "PythonTech",
+        "description": "PythonTech is a technology company specializing in Python development. We are committed to delivering innovative solutions to our clients.",
+        "contactEmail": "contact@pythontech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Database Administrator",
+      "type": "Full-Time",
+      "description": "Join our IT team in tech hub Pune, India, as a Database Administrator. We are seeking an experienced individual to manage and optimize our databases. Strong skills in SQL, MySQL, or PostgreSQL are required.",
+      "location": "Pune, India",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "DataMasters",
+        "description": "DataMasters is an IT solutions provider specializing in database management. We are dedicated to helping our clients efficiently manage their data.",
+        "contactEmail": "contact@datamasters.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Network Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Network Engineer to join our IT team in tech hub Chennai, India. We are seeking a skilled individual with expertise in network infrastructure. Strong knowledge of Cisco routers and switches is required.",
+      "location": "Chennai, India",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "NetConnect",
+        "description": "NetConnect is an IT services company specializing in network solutions. We are committed to delivering reliable and secure network infrastructure to our clients.",
+        "contactEmail": "contact@netconnect.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "21",
+      "title": "iOS Developer",
+      "type": "Full-Time",
+      "description": "Join our mobile development team in tech hub Gurugram, India, as an iOS Developer. We are seeking a talented individual with experience in iOS app development. Proficiency in Swift programming language is required.",
+      "location": "Gurugram, India",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "AppGenius",
+        "description": "AppGenius is a mobile app development company specializing in iOS and Android apps. We are dedicated to creating innovative and user-friendly mobile solutions.",
+        "contactEmail": "contact@appgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Android Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an Android Developer to join our mobile development team in tech hub Noida, India. We are seeking a skilled individual with experience in Android app development. Proficiency in Kotlin programming language is required.",
+      "location": "Noida, India",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "DroidTech",
+        "description": "DroidTech is a mobile app development company specializing in Android apps. We are committed to delivering high-quality and innovative mobile solutions.",
+        "contactEmail": "contact@droidtech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "23",
+      "title": "QA Engineer",
+      "type": "Full-Time",
+      "description": "Join our QA team in tech hub Ahmedabad, India, as a QA Engineer. We are seeking a detail-oriented individual to ensure the quality of our software products. Experience with automated testing tools such as Selenium is desirable.",
+      "location": "Ahmedabad, India",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "QualityTech",
+        "description": "QualityTech is a software testing company specializing in ensuring the quality of software products. We are dedicated to helping our clients deliver reliable software solutions.",
+        "contactEmail": "contact@qualitytech.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Technical Support Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Technical Support Engineer to join our support team in tech hub Kolkata, India. We are seeking a customer-focused individual to provide technical assistance to our clients. Strong communication skills and troubleshooting abilities are required.",
+      "location": "Kolkata, India",
+      "salary": "$70K - $90K",
+      "company": {
+        "name": "SupportTech",
+        "description": "SupportTech is a tech support company specializing in providing technical assistance to businesses. We are committed to delivering exceptional customer service.",
+        "contactEmail": "contact@supporttech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "25",
+      "title": "IT Project Manager",
+      "type": "Full-Time",
+      "description": "Join our IT team in tech hub Jaipur, India, as an IT Project Manager. We are seeking a strategic individual to oversee our IT projects from initiation to completion. Strong leadership and project management skills are required.",
+      "location": "Jaipur, India",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "ProjectGenius",
+        "description": "ProjectGenius is a project management company specializing in IT projects. We are dedicated to delivering successful and innovative projects to our clients.",
+        "contactEmail": "contact@projectgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "26",
+      "title": "Technical Writer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Technical Writer to join our team in tech hub Coimbatore, India. We are seeking a skilled individual to create technical documentation for our software products. Strong writing and communication skills are required.",
+      "location": "Coimbatore, India",
+      "salary": "$60K - $80K",
+      "company": {
+        "name": "WriteTech",
+        "description": "WriteTech is a technical writing company specializing in creating documentation for software products. We are committed to delivering clear and concise technical documentation.",
+        "contactEmail": "contact@writetech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "27",
+      "title": "UI Developer",
+      "type": "Full-Time",
+      "description": "Join our UI development team in tech hub Indore, India, as a UI Developer. We are seeking a creative individual with expertise in front-end development. Strong skills in HTML, CSS, and JavaScript frameworks such as React are required.",
+      "location": "Indore, India",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "UIGenius",
+        "description": "UIGenius is a UI development company specializing in creating engaging user interfaces. We are dedicated to delivering intuitive and visually appealing UI designs.",
+        "contactEmail": "contact@uigenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "28",
+      "title": "Backend Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Backend Developer to join our team in tech hub Chandigarh, India. We are seeking a skilled individual with expertise in server-side development. Strong skills in programming languages such as Java, Python, or Node.js are required.",
+      "location": "Chandigarh, India",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "BackendTech",
+        "description": "BackendTech is a technology company specializing in backend development. We are committed to delivering scalable and efficient backend solutions.",
+        "contactEmail": "contact@backendtech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "29",
+      "title": "Frontend Developer",
+      "type": "Full-Time",
+      "description": "Join our frontend development team in tech hub Kochi, India, as a Frontend Developer. We are seeking a creative individual with expertise in client-side development. Strong skills in HTML, CSS, and JavaScript frameworks such as React or Angular are required.",
+      "location": "Kochi, India",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "FrontendGenius",
+        "description": "FrontendGenius is a frontend development company specializing in creating interactive and responsive user interfaces. We are dedicated to delivering exceptional frontend solutions.",
+        "contactEmail": "contact@frontendgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Cloud Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Cloud Engineer to join our team in tech hub Lucknow, India. We are seeking a skilled individual with expertise in cloud computing technologies. Strong knowledge of AWS, Azure, or Google Cloud Platform is required.",
+      "location": "Lucknow, India",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "CloudTech",
+        "description": "CloudTech is a technology company specializing in cloud computing solutions. We are committed to delivering secure and scalable cloud infrastructure to our clients.",
+        "contactEmail": "contact@cloudtech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "31",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "description": "Join our product management team in tech hub Surat, India, as a Product Manager. We are seeking a strategic individual to oversee the development and launch of our products. Strong leadership and communication skills are required.",
+      "location": "Surat, India",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "ProductGenius",
+        "description": "ProductGenius is a product management company specializing in developing innovative products. We are dedicated to delivering products that meet the needs of our users.",
+        "contactEmail": "contact@productgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "32",
+      "title": "IT Security Analyst",
+      "type": "Full-Time",
+      "description": "Join our cybersecurity team in tech hub Bhopal, India, as an IT Security Analyst. We are seeking a skilled individual to ensure the security of our IT systems and networks. Experience with cybersecurity tools and protocols is required.",
+      "location": "Bhopal, India",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "SecureTech",
+        "description": "SecureTech is a cybersecurity company specializing in protecting IT systems and networks. We are committed to delivering effective cybersecurity solutions to our clients.",
+        "contactEmail": "contact@securetech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Cloud Solutions Architect",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Cloud Solutions Architect to join our team in tech hub Ahmedabad, India. We are seeking a skilled individual with expertise in designing and implementing cloud-based solutions. Strong knowledge of cloud platforms such as AWS, Azure, or Google Cloud Platform is required.",
+      "location": "Ahmedabad, India",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "CloudArch",
+        "description": "CloudArch is a technology company specializing in cloud architecture and solutions. We are committed to delivering scalable and reliable cloud infrastructure to our clients.",
+        "contactEmail": "contact@cloudarch.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "34",
+      "title": "Cybersecurity Engineer",
+      "type": "Full-Time",
+      "description": "Join our cybersecurity team in tech hub Bengaluru, India, as a Cybersecurity Engineer. We are seeking a skilled individual to protect our organization's IT systems and networks from cyber threats. Strong knowledge of cybersecurity tools and protocols is required.",
+      "location": "Bengaluru, India",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "SecureNet",
+        "description": "SecureNet is a cybersecurity firm specializing in protecting organizations from cyber threats. We are dedicated to providing comprehensive cybersecurity solutions to our clients.",
+        "contactEmail": "contact@securenet.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Data Scientist to join our analytics team in tech hub Chennai, India. We are seeking an analytical individual with expertise in data analysis and machine learning. Strong programming skills in Python and knowledge of data visualization tools are required.",
+      "location": "Chennai, India",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "DataGenius",
+        "description": "DataGenius is a data analytics company specializing in deriving insights from data. We are committed to helping our clients make data-driven decisions.",
+        "contactEmail": "contact@datagenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "36",
+      "title": "AI Engineer",
+      "type": "Full-Time",
+      "description": "Join our AI team in tech hub Delhi, India, as an AI Engineer. We are seeking a skilled individual with expertise in artificial intelligence and machine learning. Strong programming skills in Python and experience with AI frameworks such as TensorFlow or PyTorch are required.",
+      "location": "Delhi, India",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "AIGenius",
+        "description": "AIGenius is a technology company specializing in artificial intelligence solutions. We are dedicated to pushing the boundaries of AI to solve complex problems.",
+        "contactEmail": "contact@aigenius.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "37",
+      "title": "DevOps Architect",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a DevOps Architect to join our team in tech hub Hyderabad, India. We are seeking a skilled individual with expertise in DevOps practices and tools. Strong knowledge of automation, CI/CD pipelines, and cloud platforms is required.",
+      "location": "Hyderabad, India",
+      "salary": "$150K - $170K",
+      "company": {
+        "name": "DevOpsGenius",
+        "description": "DevOpsGenius is a technology company specializing in DevOps solutions. We are committed to helping our clients streamline their development and deployment processes.",
+        "contactEmail": "contact@devopsgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "38",
+      "title": "Blockchain Developer",
+      "type": "Full-Time",
+      "description": "Join our blockchain development team in tech hub Pune, India, as a Blockchain Developer. We are seeking a skilled individual with expertise in blockchain technology. Strong programming skills in languages such as Solidity and knowledge of blockchain frameworks are required.",
+      "location": "Pune, India",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "BlockTech",
+        "description": "BlockTech is a technology company specializing in blockchain solutions. We are dedicated to implementing secure and efficient blockchain applications.",
+        "contactEmail": "contact@blocktech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "39",
+      "title": "IT Consultant",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an IT Consultant to join our consulting team in tech hub Mumbai, India. We are seeking a strategic individual to provide expert advice and solutions to our clients' IT challenges. Strong communication and problem-solving skills are required.",
+      "location": "Mumbai, India",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "ConsultTech",
+        "description": "ConsultTech is a consulting firm specializing in providing IT solutions to businesses. We are committed to delivering tailored and effective consulting services to our clients.",
+        "contactEmail": "contact@consulttech.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "40",
+      "title": "IT Operations Manager",
+      "type": "Full-Time",
+      "description": "Join our IT operations team in tech hub Gurugram, India, as an IT Operations Manager. We are seeking a skilled individual to oversee our organization's IT infrastructure and operations. Strong leadership and technical skills are required.",
+      "location": "Gurugram, India",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "OpsTech",
+        "description": "OpsTech is a technology company specializing in IT operations management. We are dedicated to ensuring the reliability and efficiency of our organization's IT systems.",
+        "contactEmail": "contact@opstech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "41",
+      "title": "Mobile App Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Mobile App Developer to join our mobile development team in tech hub Noida, India. We are seeking a skilled individual with expertise in mobile app development for iOS and Android platforms. Strong programming skills in languages such as Swift and Kotlin are required.",
+      "location": "Noida, India",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "AppGenius",
+        "description": "AppGenius is a mobile app development company specializing in creating innovative and user-friendly apps. We are committed to delivering high-quality mobile solutions to our clients.",
+        "contactEmail": "contact@appgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "42",
+      "title": "IT Support Specialist",
+      "type": "Full-Time",
+      "description": "Join our IT support team in tech hub Kochi, India, as an IT Support Specialist. We are seeking a skilled individual to provide technical support and assistance to our organization's employees. Strong troubleshooting and communication skills are required.",
+      "location": "Kochi, India",
+      "salary": "$60K - $80K",
+      "company": {
+        "name": "SupportTech",
+        "description": "SupportTech is an IT support company specializing in delivering exceptional customer service.",
+        "contactEmail": "contact@supporttech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "43",
+      "title": "IT Project Manager",
+      "type": "Full-Time",
+      "description": "Join our IT team in tech hub Jaipur, India, as an IT Project Manager. We are seeking a strategic individual to oversee our IT projects from initiation to completion. Strong leadership and project management skills are required.",
+      "location": "Jaipur, India",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "ProjectGenius",
+        "description": "ProjectGenius is a project management company specializing in IT projects.",
+        "contactEmail": "contact@projectgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "44",
+      "title": "Technical Writer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Technical Writer to join our team in tech hub Coimbatore, India. We are seeking a skilled individual to create technical documentation for our software products. Strong writing and communication skills are required.",
+      "location": "Coimbatore, India",
+      "salary": "$60K - $80K",
+      "company": {
+        "name": "WriteTech",
+        "description": "WriteTech is a technical writing company specializing in creating documentation for software products.",
+        "contactEmail": "contact@writetech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "45",
+      "title": "UI Developer",
+      "type": "Full-Time",
+      "description": "Join our UI development team in tech hub Indore, India, as a UI Developer. We are seeking a creative individual with expertise in front-end development. Strong skills in HTML, CSS, and JavaScript frameworks such as React are required.",
+      "location": "Indore, India",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "UIGenius",
+        "description": "UIGenius is a UI development company specializing in creating engaging user interfaces.",
+        "contactEmail": "contact@uigenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "46",
+      "title": "Backend Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Backend Developer to join our team in tech hub Chandigarh, India. We are seeking a skilled individual with expertise in server-side development. Strong skills in programming languages such as Java, Python, or Node.js are required.",
+      "location": "Chandigarh, India",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "BackendTech",
+        "description": "BackendTech is a technology company specializing in backend development.",
+        "contactEmail": "contact@backendtech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "47",
+      "title": "Frontend Developer",
+      "type": "Full-Time",
+      "description": "Join our frontend development team in tech hub Kochi, India, as a Frontend Developer. We are seeking a creative individual with expertise in client-side development. Strong skills in HTML, CSS, and JavaScript frameworks such as React or Angular are required.",
+      "location": "Kochi, India",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "FrontendGenius",
+        "description": "FrontendGenius is a frontend development company specializing in creating interactive and responsive user interfaces.",
+        "contactEmail": "contact@frontendgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "48",
+      "title": "Cloud Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Cloud Engineer to join our team in tech hub Lucknow, India. We are seeking a skilled individual with expertise in cloud computing technologies. Strong knowledge of AWS, Azure, or Google Cloud Platform is required.",
+      "location": "Lucknow, India",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "CloudTech",
+        "description": "CloudTech is a technology company specializing in cloud computing solutions.",
+        "contactEmail": "contact@cloudtech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "49",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "description": "Join our product management team in tech hub Surat, India, as a Product Manager. We are seeking a strategic individual to oversee the development and launch of our products. Strong leadership and communication skills are required.",
+      "location": "Surat, India",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "ProductGenius",
+        "description": "ProductGenius is a product management company specializing in developing innovative products.",
+        "contactEmail": "contact@productgenius.com",
+        "contactPhone": "91-963-852-7410"
+      }
+    },
+    {
+      "id": "50",
+      "title": "IT Security Analyst",
+      "type": "Full-Time",
+      "description": "Join our cybersecurity team in tech hub Bhopal, India, as an IT Security Analyst. We are seeking a skilled individual to ensure the security of our IT systems and networks. Experience with cybersecurity tools and protocols is required.",
+      "location": "Bhopal, India",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "SecureTech",
+        "description": "SecureTech is a cybersecurity company specializing in protecting IT systems and networks. We are committed to delivering effective cybersecurity solutions to our clients.",
+        "contactEmail": "contact@securetech.com",
+        "contactPhone": "91-741-852-9630"
+      }
+    },
+    {
+      "id": "51",
+      "title": "Frontend Developer Intern",
+      "type": "Internship",
+      "description": "Join our team as a Frontend Developer Intern in tech hub Bengaluru, India. This internship offers hands-on experience in frontend development under the guidance of experienced developers. Suitable for students or recent graduates.",
+      "location": "Bengaluru, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "TechInterns",
+        "description": "TechInterns is a tech company offering internship opportunities to aspiring developers. We provide mentorship and real-world projects to help interns develop their skills.",
+        "contactEmail": "contact@techinterns.com",
+        "contactPhone": "91-741-852-9631"
+      }
+    },
+    {
+      "id": "52",
+      "title": "Backend Developer Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for a Backend Developer Intern in tech hub Pune, India. Gain valuable experience in server-side development while working on real-world projects. Suitable for students or recent graduates.",
+      "location": "Pune, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "DevInterns",
+        "description": "DevInterns offers internship opportunities in software development. We provide hands-on experience and mentorship to help interns kickstart their careers in tech.",
+        "contactEmail": "contact@devinterns.com",
+        "contactPhone": "91-963-852-7411"
+      }
+    },
+    {
+      "id": "53",
+      "title": "Data Analyst Intern",
+      "type": "Internship",
+      "description": "Join our analytics team as a Data Analyst Intern in tech hub Hyderabad, India. This internship provides practical experience in data analysis and visualization. Suitable for students or recent graduates.",
+      "location": "Hyderabad, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "DataInterns",
+        "description": "DataInterns offers internship opportunities in data analytics. We provide training and mentorship to help interns develop their analytical skills.",
+        "contactEmail": "contact@datainterns.com",
+        "contactPhone": "91-741-852-9632"
+      }
+    },
+    {
+      "id": "54",
+      "title": "IT Support Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for an IT Support Intern in tech hub Chennai, India. Gain practical experience in providing technical support to end-users. Suitable for students or recent graduates.",
+      "location": "Chennai, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "SupportInterns",
+        "description": "SupportInterns offers internship opportunities in IT support. We provide hands-on training and mentorship to help interns develop their technical skills.",
+        "contactEmail": "contact@supportinterns.com",
+        "contactPhone": "91-963-852-7412"
+      }
+    },
+    {
+      "id": "55",
+      "title": "Web Developer Intern",
+      "type": "Internship",
+      "description": "Join our web development team as a Web Developer Intern in tech hub Mumbai, India. This internship offers practical experience in frontend and backend development. Suitable for students or recent graduates.",
+      "location": "Mumbai, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "WebInterns",
+        "description": "WebInterns offers internship opportunities in web development. We provide mentorship and real-world projects to help interns enhance their coding skills.",
+        "contactEmail": "contact@webinterns.com",
+        "contactPhone": "91-741-852-9633"
+      }
+    },
+    {
+      "id": "56",
+      "title": "IT Security Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for an IT Security Intern in tech hub New Delhi, India. Gain practical experience in cybersecurity practices and tools. Suitable for students or recent graduates.",
+      "location": "New Delhi, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "SecurityInterns",
+        "description": "SecurityInterns offers internship opportunities in IT security. We provide training and mentorship to help interns develop their cybersecurity skills.",
+        "contactEmail": "contact@securityinterns.com",
+        "contactPhone": "91-963-852-7413"
+      }
+    },
+    {
+      "id": "57",
+      "title": "Software Developer Intern",
+      "type": "Internship",
+      "description": "Join our software development team as a Software Developer Intern in tech hub Kolkata, India. This internship offers hands-on experience in software development. Suitable for students or recent graduates.",
+      "location": "Kolkata, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "SoftwareInterns",
+        "description": "SoftwareInterns offers internship opportunities in software development. We provide mentorship and real-world projects to help interns enhance their coding skills.",
+        "contactEmail": "contact@softwareinterns.com",
+        "contactPhone": "91-741-852-9634"
+      }
+    },
+    {
+      "id": "58",
+      "title": "UI/UX Design Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for a UI/UX Design Intern in tech hub Ahmedabad, India. Gain practical experience in user interface and experience design. Suitable for students or recent graduates.",
+      "location": "Ahmedabad, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "DesignInterns",
+        "description": "DesignInterns offers internship opportunities in UI/UX design. We provide hands-on training and mentorship to help interns develop their design skills.",
+        "contactEmail": "contact@designinterns.com",
+        "contactPhone": "91-963-852-7414"
+      }
+    },
+    {
+      "id": "59",
+      "title": "Mobile App Developer Intern",
+      "type": "Internship",
+      "description": "Join our mobile app development team as a Mobile App Developer Intern in tech hub Noida, India. This internship offers hands-on experience in mobile app development. Suitable for students or recent graduates.",
+      "location": "Noida, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "AppInterns",
+        "description": "AppInterns offers internship opportunities in mobile app development. We provide mentorship and real-world projects to help interns develop their coding skills.",
+        "contactEmail": "contact@appinterns.com",
+        "contactPhone": "91-741-852-9635"
+      }
+    },
+    {
+      "id": "60",
+      "title": "IT Project Management Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for an IT Project Management Intern in tech hub Jaipur, India. Gain practical experience in managing IT projects. Suitable for students or recent graduates.",
+      "location": "Jaipur, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "ProjectInterns",
+        "description": "ProjectInterns offers internship opportunities in IT project management. We provide hands-on training and mentorship to help interns develop their project management skills.",
+        "contactEmail": "contact@projectinterns.com",
+        "contactPhone": "91-963-852-7415"
+      }
+    },
+    {
+      "id": "61",
+      "title": "Part-Time Software Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Software Developer in tech hub Bengaluru, India. This position offers flexibility for students or individuals looking for part-time opportunities.",
+      "location": "Bengaluru, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "FlexiTech",
+        "description": "FlexiTech offers part-time opportunities in software development. We provide a supportive environment for individuals looking to balance work and studies.",
+        "contactEmail": "contact@flexitech.com",
+        "contactPhone": "91-741-852-9636"
+      }
+    },
+    {
+      "id": "62",
+      "title": "Part-Time Web Developer",
+      "type": "Part-Time",
+      "description": "Exciting part-time opportunity for a Web Developer in tech hub Pune, India. Join our team and work on web development projects while balancing other commitments.",
+      "location": "Pune, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "PartTimeWeb",
+        "description": "PartTimeWeb offers part-time opportunities in web development. We provide flexibility and a collaborative work environment.",
+        "contactEmail": "contact@parttimeweb.com",
+        "contactPhone": "91-963-852-7416"
+      }
+    },
+    {
+      "id": "63",
+      "title": "Part-Time Data Analyst",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Data Analyst in tech hub Hyderabad, India. This position offers flexible hours for individuals with a passion for data analysis.",
+      "location": "Hyderabad, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "DataPartTime",
+        "description": "DataPartTime offers part-time opportunities in data analysis. We provide a supportive environment for individuals to enhance their analytical skills.",
+        "contactEmail": "contact@dataparttime.com",
+        "contactPhone": "91-741-852-9637"
+      }
+    },
+    {
+      "id": "64",
+      "title": "Part-Time IT Support Specialist",
+      "type": "Part-Time",
+      "description": "Exciting part-time opportunity for an IT Support Specialist in tech hub Chennai, India. Join our team and provide technical support while managing other commitments.",
+      "location": "Chennai, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "SupportPartTime",
+        "description": "SupportPartTime offers part-time opportunities in IT support. We provide flexibility and training to help individuals develop their technical skills.",
+        "contactEmail": "contact@supportparttime.com",
+        "contactPhone": "91-963-852-7417"
+      }
+    },
+    {
+      "id": "65",
+      "title": "Part-Time UI/UX Designer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time UI/UX Designer in tech hub Mumbai, India. This position offers flexibility for individuals with a creative flair.",
+      "location": "Mumbai, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "DesignPartTime",
+        "description": "DesignPartTime offers part-time opportunities in UI/UX design. We provide a collaborative environment for individuals to showcase their design skills.",
+        "contactEmail": "contact@designparttime.com",
+        "contactPhone": "91-741-852-9638"
+      }
+    },
+    {
+      "id": "66",
+      "title": "Part-Time Mobile App Developer",
+      "type": "Part-Time",
+      "description": "Exciting part-time opportunity for a Mobile App Developer in tech hub New Delhi, India. Join our team and work on mobile app projects while managing other commitments.",
+      "location": "New Delhi, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "AppPartTime",
+        "description": "AppPartTime offers part-time opportunities in mobile app development. We provide flexibility and support for individuals to develop their coding skills.",
+        "contactEmail": "contact@appparttime.com",
+        "contactPhone": "91-963-852-7418"
+      }
+    },
+    {
+      "id": "67",
+      "title": "Part-Time IT Project Manager",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time IT Project Manager in tech hub Kolkata, India. This position offers flexibility for individuals with project management skills.",
+      "location": "Kolkata, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "ProjectPartTime",
+        "description": "ProjectPartTime offers part-time opportunities in IT project management. We provide a supportive environment for individuals to manage projects effectively.",
+        "contactEmail": "contact@projectparttime.com",
+        "contactPhone": "91-741-852-9639"
+      }
+    },
+    {
+      "id": "68",
+      "title": "Part-Time IT Consultant",
+      "type": "Part-Time",
+      "description": "Exciting part-time opportunity for an IT Consultant in tech hub Ahmedabad, India. Join our team and provide consultancy services while managing other commitments.",
+      "location": "Ahmedabad, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "ConsultPartTime",
+        "description": "ConsultPartTime offers part-time opportunities in IT consultancy. We provide flexibility and support for individuals to apply their expertise.",
+        "contactEmail": "contact@consultparttime.com",
+        "contactPhone": "91-963-852-7419"
+      }
+    },
+    {
+      "id": "69",
+      "title": "Part-Time Systems Administrator",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Systems Administrator in tech hub Noida, India. This position offers flexibility for individuals with system administration skills.",
+      "location": "Noida, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "SysAdminPartTime",
+        "description": "SysAdminPartTime offers part-time opportunities in system administration. We provide training and support for individuals to manage IT systems effectively.",
+        "contactEmail": "contact@sysadminparttime.com",
+        "contactPhone": "91-741-852-9640"
+      }
+    },
+    {
+      "id": "70",
+      "title": "Part-Time IT Trainer",
+      "type": "Part-Time",
+      "description": "Exciting part-time opportunity for an IT Trainer in tech hub Jaipur, India. Join our team and impart your knowledge while managing other commitments.",
+      "location": "Jaipur, India",
+      "salary": "$30K - $35K",
+      "company": {
+        "name": "TrainerPartTime",
+        "description": "TrainerPartTime offers part-time opportunities in IT training. We provide flexibility and support for individuals to share their expertise.",
+        "contactEmail": "contact@trainerparttime.com",
+        "contactPhone": "91-963-852-7420"
+      }
+    },
+    {
+      "id": "71",
+      "title": "Machine Learning Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for a Machine Learning Intern in tech hub Bengaluru, India. Gain practical experience in machine learning algorithms and applications. Suitable for students or recent graduates.",
+      "location": "Bengaluru, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "MLInterns",
+        "description": "MLInterns offers internship opportunities in machine learning. We provide mentorship and hands-on projects to help interns develop their skills.",
+        "contactEmail": "contact@mlinterns.com",
+        "contactPhone": "91-741-852-9641"
+      }
+    },
+    {
+      "id": "72",
+      "title": "AI Research Intern",
+      "type": "Internship",
+      "description": "Join our AI research team as an AI Research Intern in tech hub Pune, India. This internship offers practical experience in artificial intelligence research. Suitable for students or recent graduates.",
+      "location": "Pune, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "AIResearch",
+        "description": "AIResearch offers internship opportunities in AI research. We provide mentorship and real-world projects to help interns explore the field of AI.",
+        "contactEmail": "contact@airesearch.com",
+        "contactPhone": "91-963-852-7421"
+      }
+    },
+    {
+      "id": "73",
+      "title": "Blockchain Developer Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for a Blockchain Developer Intern in tech hub Hyderabad, India. Gain practical experience in blockchain development and cryptocurrency. Suitable for students or recent graduates.",
+      "location": "Hyderabad, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "BlockchainInterns",
+        "description": "BlockchainInterns offers internship opportunities in blockchain development. We provide training and mentorship to help interns explore this emerging technology.",
+        "contactEmail": "contact@blockchaininterns.com",
+        "contactPhone": "91-741-852-9642"
+      }
+    },
+    {
+      "id": "74",
+      "title": "Cloud Computing Intern",
+      "type": "Internship",
+      "description": "Join our cloud computing team as a Cloud Computing Intern in tech hub Chennai, India. This internship offers hands-on experience in cloud technologies and services. Suitable for students or recent graduates.",
+      "location": "Chennai, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "CloudInterns",
+        "description": "CloudInterns offers internship opportunities in cloud computing. We provide mentorship and real-world projects to help interns explore cloud technologies.",
+        "contactEmail": "contact@cloudinterns.com",
+        "contactPhone": "91-963-852-7422"
+      }
+    },
+    {
+      "id": "75",
+      "title": "Cyber Security Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for a Cyber Security Intern in tech hub Mumbai, India. Gain practical experience in cybersecurity practices and tools. Suitable for students or recent graduates.",
+      "location": "Mumbai, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "CyberInterns",
+        "description": "CyberInterns offers internship opportunities in cybersecurity. We provide hands-on training and mentorship to help interns develop their cybersecurity skills.",
+        "contactEmail": "contact@cyberinterns.com",
+        "contactPhone": "91-741-852-9643"
+      }
+    },
+    {
+      "id": "76",
+      "title": "AR/VR Developer Intern",
+      "type": "Internship",
+      "description": "Join our AR/VR development team as an AR/VR Developer Intern in tech hub New Delhi, India. This internship offers hands-on experience in augmented and virtual reality development. Suitable for students or recent graduates.",
+      "location": "New Delhi, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "ARVRInterns",
+        "description": "ARVRInterns offers internship opportunities in AR/VR development. We provide mentorship and real-world projects to help interns explore immersive technologies.",
+        "contactEmail": "contact@arvrinterns.com",
+        "contactPhone": "91-963-852-7423"
+      }
+    },
+    {
+      "id": "77",
+      "title": "Full Stack Developer Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for a Full Stack Developer Intern in tech hub Kolkata, India. Gain practical experience in both frontend and backend development. Suitable for students or recent graduates.",
+      "location": "Kolkata, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "FullStackInterns",
+        "description": "FullStackInterns offers internship opportunities in full stack development. We provide mentorship and hands-on projects to help interns develop their coding skills.",
+        "contactEmail": "contact@fullstackinterns.com",
+        "contactPhone": "91-741-852-9644"
+      }
+    },
+    {
+      "id": "78",
+      "title": "Game Developer Intern",
+      "type": "Internship",
+      "description": "Join our game development team as a Game Developer Intern in tech hub Ahmedabad, India. This internship offers hands-on experience in game design and development. Suitable for students or recent graduates.",
+      "location": "Ahmedabad, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "GameInterns",
+        "description": "GameInterns offers internship opportunities in game development. We provide training and mentorship to help interns explore the exciting field of game design.",
+        "contactEmail": "contact@gameinterns.com",
+        "contactPhone": "91-963-852-7424"
+      }
+    },
+    {
+      "id": "79",
+      "title": "UI/UX Design Intern",
+      "type": "Internship",
+      "description": "Exciting internship opportunity for a UI/UX Design Intern in tech hub Noida, India. Gain practical experience in user interface and experience design. Suitable for students or recent graduates.",
+      "location": "Noida, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "DesignInterns",
+        "description": "DesignInterns offers internship opportunities in UI/UX design. We provide hands-on training and mentorship to help interns develop their design skills.",
+        "contactEmail": "contact@designinterns.com",
+        "contactPhone": "91-741-852-9645"
+      }
+    },
+    {
+      "id": "80",
+      "title": "Mobile App Developer Intern",
+      "type": "Internship",
+      "description": "Join our mobile app development team as a Mobile App Developer Intern in tech hub Jaipur, India. This internship offers hands-on experience in mobile app development. Suitable for students or recent graduates.",
+      "location": "Jaipur, India",
+      "salary": "$20K - $25K",
+      "company": {
+        "name": "AppInterns",
+        "description": "AppInterns offers internship opportunities in mobile app development. We provide mentorship and real-world projects to help interns develop their coding skills.",
+        "contactEmail": "contact@appinterns.com",
+        "contactPhone": "91-963-852-7425"
+      }
+    },
+    {
+      "id": "81",
+      "title": "Software Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a Software Engineer in tech hub Bengaluru, India. We are looking for highly skilled individuals to design, develop, and deploy software solutions.",
+      "location": "Bengaluru, India",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Tech Solutions Ltd.",
+        "description": "Tech Solutions Ltd. is a leading software development company. We offer a collaborative and innovative work environment where employees are encouraged to grow and excel.",
+        "contactEmail": "contact@techsolutions.com",
+        "contactPhone": "91-741-852-9646"
+      }
+    },
+    {
+      "id": "82",
+      "title": "Systems Analyst",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Systems Analyst in tech hub Pune, India. Join our team and analyze business requirements to design efficient IT systems.",
+      "location": "Pune, India",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "Systematics",
+        "description": "Systematics specializes in IT consulting and system integration services. We are committed to delivering innovative solutions to our clients.",
+        "contactEmail": "contact@systematics.com",
+        "contactPhone": "91-963-852-7426"
+      }
+    },
+    {
+      "id": "83",
+      "title": "Network Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a Network Engineer in tech hub Hyderabad, India. We are seeking individuals with expertise in designing and implementing network solutions.",
+      "location": "Hyderabad, India",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "NetPro",
+        "description": "NetPro provides network infrastructure solutions to businesses. We offer a dynamic and challenging work environment where employees can thrive.",
+        "contactEmail": "contact@netpro.com",
+        "contactPhone": "91-741-852-9647"
+      }
+    },
+    {
+      "id": "84",
+      "title": "Database Administrator",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Database Administrator in tech hub Chennai, India. Join our team and manage database systems to ensure optimal performance and reliability.",
+      "location": "Chennai, India",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "DataTech Solutions",
+        "description": "DataTech Solutions specializes in database management and analytics. We are dedicated to helping businesses harness the power of data.",
+        "contactEmail": "contact@datatech.com",
+        "contactPhone": "91-963-852-7427"
+      }
+    },
+    {
+      "id": "85",
+      "title": "UI/UX Designer",
+      "type": "Full-Time",
+      "description": "Join our design team as a UI/UX Designer in tech hub Kolkata, India. We are seeking creative individuals to design intuitive and user-friendly interfaces.",
+      "location": "Kolkata, India",
+      "salary": "$70K - $90K",
+      "company": {
+        "name": "DesignTech",
+        "description": "DesignTech specializes in UI/UX design services. We are passionate about creating engaging and memorable user experiences.",
+        "contactEmail": "contact@designtech.com",
+        "contactPhone": "91-741-852-9648"
+      }
+    },
+    {
+      "id": "86",
+      "title": "Quality Assurance Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Quality Assurance Engineer in tech hub Ahmedabad, India. Join our team and ensure the quality and reliability of our software products.",
+      "location": "Ahmedabad, India",
+      "salary": "$70K - $90K",
+      "company": {
+        "name": "QA Solutions",
+        "description": "QA Solutions specializes in software testing and quality assurance services. We are committed to delivering high-quality products to our clients.",
+        "contactEmail": "contact@qasolutions.com",
+        "contactPhone": "91-963-852-7428"
+      }
+    },
+    {
+      "id": "87",
+      "title": "IT Support Specialist",
+      "type": "Full-Time",
+      "description": "Join our team as an IT Support Specialist in tech hub Noida, India. We are seeking individuals to provide technical support and assistance to end-users.",
+      "location": "Noida, India",
+      "salary": "$60K - $80K",
+      "company": {
+        "name": "IT Support Solutions",
+        "description": "IT Support Solutions offers comprehensive IT support services to businesses. We provide timely and effective solutions to technical issues.",
+        "contactEmail": "contact@itsupportsolutions.com",
+        "contactPhone": "91-741-852-9649"
+      }
+    },
+    {
+      "id": "88",
+      "title": "DevOps Engineer",
+      "type": "Contractor",
+      "description": "Join our team as a DevOps Engineer contractor in tech hub Bengaluru, India. We are seeking an experienced individual to optimize our development and deployment processes.",
+      "location": "Bengaluru, India",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "DevOps Solutions",
+        "description": "DevOps Solutions specializes in DevOps consulting and implementation services. We are dedicated to helping businesses streamline their software delivery processes.",
+        "contactEmail": "contact@devopssolutions.com",
+        "contactPhone": "91-963-852-7429"
+      }
+    },
+    {
+      "id": "89",
+      "title": "Data Scientist",
+      "type": "Contractor",
+      "description": "Exciting opportunity for a Data Scientist contractor in tech hub Pune, India. Join our team and analyze complex datasets to generate actionable insights.",
+      "location": "Pune, India",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "DataScience Experts",
+        "description": "DataScience Experts specializes in data science consulting and analytics. We are committed to helping businesses unlock the value of their data.",
+        "contactEmail": "contact@datascienceexperts.com",
+        "contactPhone": "91-741-852-9650"
+      }
+    },
+    {
+      "id": "90",
+      "title": "Cyber Security Specialist",
+      "type": "Contractor",
+      "description": "Join our team as a Cyber Security Specialist contractor in tech hub Hyderabad, India. We are seeking individuals to implement security measures and protect our systems from cyber threats.",
+      "location": "Hyderabad, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "SecureIT Solutions",
+        "description": "SecureIT Solutions offers cybersecurity consulting and managed security services. We are dedicated to keeping our clients safe from cyber threats.",
+        "contactEmail": "contact@secureitsolutions.com",
+        "contactPhone": "91-963-852-7430"
+      }
+    },
+    {
+      "id": "91",
+      "title": "Cloud Solutions Architect",
+      "type": "Contractor",
+      "description": "Exciting opportunity for a Cloud Solutions Architect contractor in tech hub Chennai, India. Join our team and design scalable and reliable cloud solutions.",
+      "location": "Chennai, India",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "CloudArchitects",
+        "description": "CloudArchitects specializes in cloud architecture and migration services. We help businesses leverage cloud technologies for growth and efficiency.",
+        "contactEmail": "contact@cloudarchitects.com",
+        "contactPhone": "91-741-852-9651"
+      }
+    },
+    {
+      "id": "92",
+      "title": "AI/ML Engineer",
+      "type": "Contractor",
+      "description": "Join our team as an AI/ML Engineer contractor in tech hub Kolkata, India. We are seeking individuals with expertise in machine learning algorithms and data analysis.",
+      "location": "Kolkata, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "AI Solutions",
+        "description": "AI Solutions specializes in artificial intelligence and machine learning services. We are dedicated to driving innovation through AI technologies.",
+        "contactEmail": "contact@aisolutions.com",
+        "contactPhone": "91-963-852-7431"
+      }
+    },
+    {
+      "id": "93",
+      "title": "Blockchain Developer",
+      "type": "Contractor",
+      "description": "Exciting opportunity for a Blockchain Developer contractor in tech hub Ahmedabad, India. Join our team and develop decentralized applications using blockchain technology.",
+      "location": "Ahmedabad, India",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Blockchain Innovations",
+        "description": "Blockchain Innovations specializes in blockchain development and consulting. We are passionate about building decentralized solutions for our clients.",
+        "contactEmail": "contact@blockchaininnovations.com",
+        "contactPhone": "91-741-852-9652"
+      }
+    },
+    {
+      "id": "94",
+      "title": "Full Stack Developer",
+      "type": "Contractor",
+      "description": "Join our team as a Full Stack Developer contractor in tech hub Noida, India. We are seeking individuals with experience in both frontend and backend development.",
+      "location": "Noida, India",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "FullStack Solutions",
+        "description": "FullStack Solutions specializes in full stack development services. We deliver innovative and scalable solutions to meet our clients' needs.",
+        "contactEmail": "contact@fullstacksolutions.com",
+        "contactPhone": "91-963-852-7432"
+      }
+    },
+    {
+      "id": "95",
+      "title": "UX Researcher",
+      "type": "Contractor",
+      "description": "Exciting opportunity for a UX Researcher contractor in tech hub Jaipur, India. Join our team and conduct user research to inform product design and development.",
+      "location": "Jaipur, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "UX Research Labs",
+        "description": "UX Research Labs specializes in user experience research and design. We are dedicated to creating products that delight users.",
+        "contactEmail": "contact@uxresearchlabs.com",
+        "contactPhone": "91-741-852-9653"
+      }
+    },
+    {
+      "id": "96",
+      "title": "Web Developer",
+      "type": "Contractor",
+      "description": "Join our team as a Web Developer contractor in tech hub Bengaluru, India. We are seeking individuals with expertise in frontend and backend web development.",
+      "location": "Bengaluru, India",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "WebDev Solutions",
+        "description": "WebDev Solutions specializes in web development services. We create responsive and dynamic web applications to help businesses succeed online.",
+        "contactEmail": "contact@webdevsolutions.com",
+        "contactPhone": "91-963-852-7433"
+      }
+    },
+    {
+      "id": "97",
+      "title": "IT Consultant",
+      "type": "Contractor",
+      "description": "Exciting opportunity for an IT Consultant contractor in tech hub Pune, India. Join our team and provide strategic advice and solutions to clients.",
+      "location": "Pune, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "IT Consulting Services",
+        "description": "IT Consulting Services provides strategic IT consulting and advisory services. We help businesses optimize their IT infrastructure and operations.",
+        "contactEmail": "contact@itconsultingservices.com",
+        "contactPhone": "91-741-852-9654"
+      }
+    },
+    {
+      "id": "98",
+      "title": "Software Developer",
+      "type": "Contractor",
+      "description": "Join our team as a Software Developer contractor in tech hub Hyderabad, India. We are seeking individuals with strong programming skills and a passion for technology.",
+      "location": "Hyderabad, India",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Software Solutions",
+        "description": "Software Solutions specializes in custom software development services. We leverage the latest technologies to build innovative solutions for our clients.",
+        "contactEmail": "contact@softwaresolutions.com",
+        "contactPhone": "91-963-852-7434"
+      }
+    },
+    {
+      "id": "99",
+      "title": "UX/UI Designer",
+      "type": "Contractor",
+      "description": "Exciting opportunity for a UX/UI Designer contractor in tech hub Chennai, India. Join our team and design intuitive and visually appealing user interfaces.",
+      "location": "Chennai, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "UXUI Solutions",
+        "description": "UXUI Solutions specializes in UX/UI design services. We create engaging and user-friendly interfaces to enhance the user experience.",
+        "contactEmail": "contact@uxuisolutions.com",
+        "contactPhone": "91-741-852-9655"
+      }
+    },
+    {
+      "id": "100",
+      "title": "IT Project Manager",
+      "type": "Contractor",
+      "description": "Join our team as an IT Project Manager contractor in tech hub Kolkata, India. We are seeking individuals to oversee and coordinate IT projects from inception to completion.",
+      "location": "Kolkata, India",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Project Management Solutions",
+        "description": "Project Management Solutions specializes in IT project management services. We help businesses deliver successful IT projects on time and within budget.",
+        "contactEmail": "contact@pmsolutions.com",
+        "contactPhone": "91-963-852-7435"
+      }
+    },
+    {
+      "id": "101",
+      "title": "IT Intern",
+      "type": "Internship",
+      "description": "Exciting opportunity for an IT Intern in tech hub Ahmedabad, India. Join our team and gain hands-on experience in various aspects of IT.",
+      "location": "Ahmedabad, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "TechIntern",
+        "description": "TechIntern provides internship opportunities for aspiring IT professionals. We offer mentorship and training to help interns develop their skills.",
+        "contactEmail": "contact@techintern.com",
+        "contactPhone": "91-741-852-9656"
+      }
+    },
+    {
+      "id": "102",
+      "title": "Software Engineering Intern",
+      "type": "Internship",
+      "description": "Join our team as a Software Engineering Intern in tech hub Noida, India. We are seeking motivated individuals to work on real-world projects and learn from experienced professionals.",
+      "location": "Noida, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "SoftwareIntern",
+        "description": "SoftwareIntern offers internship opportunities for students and recent graduates interested in software engineering. We provide a supportive learning environment to help interns grow their skills.",
+        "contactEmail": "contact@softwareintern.com",
+        "contactPhone": "91-963-852-7436"
+      }
+    },
+    {
+      "id": "103",
+      "title": "Data Science Intern",
+      "type": "Internship",
+      "description": "Exciting opportunity for a Data Science Intern in tech hub Bengaluru, India. Join our team and gain practical experience in data analysis and machine learning.",
+      "location": "Bengaluru, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "DataIntern",
+        "description": "DataIntern offers internships for students interested in data science and analytics. We provide hands-on training and mentorship to help interns develop their skills.",
+        "contactEmail": "contact@dataintern.com",
+        "contactPhone": "91-741-852-9657"
+      }
+    },
+    {
+      "id": "104",
+      "title": "IT Support Intern",
+      "type": "Internship",
+      "description": "Join our team as an IT Support Intern in tech hub Pune, India. We are seeking enthusiastic individuals to assist with troubleshooting and resolving technical issues.",
+      "location": "Pune, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "SupportIntern",
+        "description": "SupportIntern offers internship opportunities for students interested in gaining experience in IT support. We provide hands-on training and exposure to real-world IT environments.",
+        "contactEmail": "contact@supportintern.com",
+        "contactPhone": "91-963-852-7437"
+      }
+    },
+    {
+      "id": "105",
+      "title": "Web Development Intern",
+      "type": "Internship",
+      "description": "Exciting opportunity for a Web Development Intern in tech hub Hyderabad, India. Join our team and learn web development skills while working on interesting projects.",
+      "location": "Hyderabad, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "WebIntern",
+        "description": "WebIntern offers internships for students interested in web development. We provide hands-on experience and mentorship to help interns build their portfolios.",
+        "contactEmail": "contact@webintern.com",
+        "contactPhone": "91-741-852-9658"
+      }
+    },
+    {
+      "id": "106",
+      "title": "UI/UX Design Intern",
+      "type": "Internship",
+      "description": "Join our team as a UI/UX Design Intern in tech hub Chennai, India. We are seeking creative individuals to learn and contribute to the design of user interfaces.",
+      "location": "Chennai, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "DesignIntern",
+        "description": "DesignIntern offers internship opportunities for aspiring UI/UX designers. We provide hands-on experience and guidance from experienced designers.",
+        "contactEmail": "contact@designintern.com",
+        "contactPhone": "91-963-852-7438"
+      }
+    },
+    {
+      "id": "107",
+      "title": "Software Testing Intern",
+      "type": "Internship",
+      "description": "Exciting opportunity for a Software Testing Intern in tech hub Kolkata, India. Join our team and learn about software testing methodologies and techniques.",
+      "location": "Kolkata, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "TestingIntern",
+        "description": "TestingIntern offers internships for students interested in software testing. We provide training and hands-on experience with testing tools and processes.",
+        "contactEmail": "contact@testingintern.com",
+        "contactPhone": "91-741-852-9659"
+      }
+    },
+    {
+      "id": "108",
+      "title": "Network Engineering Intern",
+      "type": "Internship",
+      "description": "Join our team as a Network Engineering Intern in tech hub Ahmedabad, India. We are seeking individuals to learn about network design and configuration.",
+      "location": "Ahmedabad, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "NetworkIntern",
+        "description": "NetworkIntern offers internship opportunities for students interested in network engineering. We provide hands-on training and exposure to networking technologies.",
+        "contactEmail": "contact@networkintern.com",
+        "contactPhone": "91-963-852-7439"
+      }
+    },
+    {
+      "id": "109",
+      "title": "IT Security Intern",
+      "type": "Internship",
+      "description": "Exciting opportunity for an IT Security Intern in tech hub Noida, India. Join our team and learn about cybersecurity principles and practices.",
+      "location": "Noida, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "SecurityIntern",
+        "description": "SecurityIntern offers internships for students interested in IT security. We provide training and hands-on experience to help interns develop their skills in cybersecurity.",
+        "contactEmail": "contact@securityintern.com",
+        "contactPhone": "91-741-852-9660"
+      }
+    },
+    {
+      "id": "110",
+      "title": "Database Intern",
+      "type": "Internship",
+      "description": "Join our team as a Database Intern in tech hub Jaipur, India. We are seeking individuals to learn about database management and administration.",
+      "location": "Jaipur, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "DatabaseIntern",
+        "description": "DatabaseIntern offers internship opportunities for students interested in database management. We provide hands-on experience with database technologies.",
+        "contactEmail": "contact@databaseintern.com",
+        "contactPhone": "91-963-852-7440"
+      }
+    },
+    {
+      "id": "111",
+      "title": "IT Sales Intern",
+      "type": "Internship",
+      "description": "Exciting opportunity for an IT Sales Intern in tech hub Bengaluru, India. Join our team and learn about sales strategies and techniques in the IT industry.",
+      "location": "Bengaluru, India",
+      "salary": "$20K - $30K",
+      "company": {
+        "name": "SalesIntern",
+        "description": "SalesIntern offers internships for students interested in IT sales. We provide training and hands-on experience to help interns develop their skills in sales and marketing.",
+        "contactEmail": "contact@salesintern.com",
+        "contactPhone": "91-741-852-9661"
+      }
+    },
+    {
+      "id": "112",
+      "title": "Software Engineer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Software Engineer in tech hub Pune, India. We are seeking highly skilled individuals to develop and maintain software applications.",
+      "location": "Pune, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeTech",
+        "description": "PartTimeTech specializes in providing part-time IT staffing solutions. We offer flexible work arrangements to accommodate our employees' needs.",
+        "contactEmail": "contact@parttimetech.com",
+        "contactPhone": "91-963-852-7441"
+      }
+    },
+    {
+      "id": "113",
+      "title": "Web Developer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time Web Developer in tech hub Hyderabad, India. Join our team and develop responsive web applications using modern technologies.",
+      "location": "Hyderabad, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeWeb",
+        "description": "PartTimeWeb offers part-time web development services. We create innovative and user-friendly web solutions for businesses.",
+        "contactEmail": "contact@parttimeweb.com",
+        "contactPhone": "91-741-852-9662"
+      }
+    },
+    {
+      "id": "114",
+      "title": "IT Consultant",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time IT Consultant in tech hub Chennai, India. We are seeking individuals to provide strategic IT advice and solutions to clients.",
+      "location": "Chennai, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeConsulting",
+        "description": "PartTimeConsulting provides part-time IT consulting services. We help businesses optimize their IT infrastructure and operations.",
+        "contactEmail": "contact@parttimeconsulting.com",
+        "contactPhone": "91-963-852-7442"
+      }
+    },
+    {
+      "id": "115",
+      "title": "Database Administrator",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time Database Administrator in tech hub Kolkata, India. Join our team and manage database systems to ensure optimal performance.",
+      "location": "Kolkata, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeDB",
+        "description": "PartTimeDB specializes in providing part-time database administration services. We ensure the reliability and security of our clients' databases.",
+        "contactEmail": "contact@parttimedb.com",
+        "contactPhone": "91-741-852-9663"
+      }
+    },
+    {
+      "id": "116",
+      "title": "Network Engineer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Network Engineer in tech hub Ahmedabad, India. We are seeking individuals to design and maintain network infrastructure.",
+      "location": "Ahmedabad, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeNetwork",
+        "description": "PartTimeNetwork offers part-time network engineering services. We design and optimize network solutions to meet our clients' needs.",
+        "contactEmail": "contact@parttimenetwork.com",
+        "contactPhone": "91-963-852-7443"
+      }
+    },
+    {
+      "id": "117",
+      "title": "Cyber Security Analyst",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time Cyber Security Analyst in tech hub Noida, India. Join our team and analyze security threats to protect our systems.",
+      "location": "Noida, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeSecurity",
+        "description": "PartTimeSecurity specializes in providing part-time cybersecurity services. We monitor and respond to security incidents to keep our clients safe.",
+        "contactEmail": "contact@parttimesecurity.com",
+        "contactPhone": "91-741-852-9664"
+      }
+    },
+    {
+      "id": "118",
+      "title": "UI/UX Designer",
+      "type": "Part-Time",
+      "description": "Join our design team as a Part-Time UI/UX Designer in tech hub Jaipur, India. We are seeking creative individuals to design engaging user interfaces.",
+      "location": "Jaipur, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeDesign",
+        "description": "PartTimeDesign specializes in providing part-time UI/UX design services. We create visually appealing and intuitive interfaces for digital products.",
+        "contactEmail": "contact@parttimedesign.com",
+        "contactPhone": "91-963-852-7444"
+      }
+    },
+    {
+      "id": "119",
+      "title": "IT Support Specialist",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time IT Support Specialist in tech hub Bengaluru, India. Join our team and provide technical assistance to end-users.",
+      "location": "Bengaluru, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeSupport",
+        "description": "PartTimeSupport offers part-time IT support services. We assist businesses with troubleshooting and resolving technical issues.",
+        "contactEmail": "contact@parttimesupport.com",
+        "contactPhone": "91-741-852-9665"
+      }
+    },
+    {
+      "id": "120",
+      "title": "DevOps Engineer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time DevOps Engineer in tech hub Pune, India. We are seeking individuals to optimize our development and deployment processes.",
+      "location": "Pune, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeDevOps",
+        "description": "PartTimeDevOps specializes in providing part-time DevOps services. We streamline software delivery processes to improve efficiency and reliability.",
+        "contactEmail": "contact@parttimedevops.com",
+        "contactPhone": "91-963-852-7445"
+      }
+    },
+    {
+      "id": "121",
+      "title": "Data Analyst",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time Data Analyst in tech hub Hyderabad, India. Join our team and analyze data to generate insights and support decision-making.",
+      "location": "Hyderabad, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeData",
+        "description": "PartTimeData specializes in providing part-time data analysis services. We help businesses derive actionable insights from their data.",
+        "contactEmail": "contact@parttimedata.com",
+        "contactPhone": "91-741-852-9666"
+      }
+    },
+    {
+      "id": "122",
+      "title": "Software Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Software Developer in tech hub Chennai, India. We are seeking individuals to develop and maintain software applications.",
+      "location": "Chennai, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeSoftware",
+        "description": "PartTimeSoftware specializes in providing part-time software development services. We deliver high-quality solutions to meet our clients' needs.",
+        "contactEmail": "contact@parttimesoftware.com",
+        "contactPhone": "91-963-852-7446"
+      }
+    },
+    {
+      "id": "123",
+      "title": "UX Designer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time UX Designer in tech hub Kolkata, India. Join our team and design user interfaces that enhance the user experience.",
+      "location": "Kolkata, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeUX",
+        "description": "PartTimeUX specializes in providing part-time UX design services. We create intuitive and visually appealing interfaces for digital products.",
+        "contactEmail": "contact@parttimeux.com",
+        "contactPhone": "91-741-852-9667"
+      }
+    },
+    {
+      "id": "124",
+      "title": "Cloud Solutions Architect",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Cloud Solutions Architect in tech hub Ahmedabad, India. We are seeking individuals to design and implement scalable cloud solutions.",
+      "location": "Ahmedabad, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeCloud",
+        "description": "PartTimeCloud specializes in providing part-time cloud architecture services. We help businesses leverage cloud technologies for growth and innovation.",
+        "contactEmail": "contact@parttimecloud.com",
+        "contactPhone": "91-963-852-7447"
+      }
+    },
+    {
+      "id": "125",
+      "title": "AI/ML Specialist",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time AI/ML Specialist in tech hub Noida, India. Join our team and develop machine learning models to solve business problems.",
+      "location": "Noida, India",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "PartTimeAI",
+        "description": "PartTimeAI specializes in providing part-time AI and machine learning services. We help businesses harness the power of AI to drive innovation and efficiency.",
+        "contactEmail": "contact@parttimeai.com",
+        "contactPhone": "91-741-852-9668"
+      }
+    },
+    {
+      "id": "d5be",
+      "title": "Associate Director ",
+      "type": "Full-Time",
+      "location": "Bangalore, India",
+      "description": "Experienced in React, Networking and Data Analysis",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Choco ",
+        "description": "The company that started as a joke and now is the most successful company ever",
+        "contactEmail": "shreyansh.ceo@choco.co",
+        "contactPhone": "7076076388"
+      }
+    }
+  ]
+}

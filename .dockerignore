@@ -1,0 +1,13 @@
+node_modules
+node_modules/*
+build
+.dockerignore
+Dockerfile
+Dockerfile.prod
+npm-debug.log
+logs/
+.git
+*.md 
+.cache
+.gitignore
+README.md

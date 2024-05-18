@@ -1,0 +1,85 @@
+In CMD  ----------------------------------------
+1. To Create the project
+-> npm create vite@latest react_jobs_portal
+
+Need to install the following packages:
+create-vite@5.2.3
+Ok to proceed? (y) y
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+2. To change directory 
+-> cd react_jobs_portal
+
+3. To open VsCode
+-> code .
+4. Documentation - 
+-> https://react.dev/learn
+-> https://tailwindcss.com/docs/guides/vite
+
+
+In VSCODE ----------------------------------
+
+1. Change port from default(5000) to 3000 in the vite.config.js file
+export default defineConfig({
+  plugins: [react()],  // since we selected react as an option from the vite menu
+  server: {         // to change the port from default 5000 to more commonly used 3000
+    port: 3000,
+  },
+})
+
+2. Install Node Modules ( Type in terminal )
+-> npm install
+
+3. To run project 
+-> npm i react-icons
+-> npm i react-router-dom
+-> npm i react-spinners
+-> npm i react-toastify
+-> npm i -D json-server
+-> npm install --save @fortawesome/fontawesome-free
+-> npm install --save @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+-> npm install @heroicons/react
+-> npx json-server jobs.json
+-> npm run dev
+-> npm run server
+-> npm run build ( This is for production and deployment )
+-> npm run preview (After Build)
+
+4. Clean up 
+4.1 Remove App.css
+4.2 Delete the content of App.jsx 
+4.3 Install Extension the plug in ES7 + React/Redux snippets by dsznajder
+4.4 write rafce and hit tab to get the snippet
+4.5 Delete the content of index.css or comment it out totaly
+4.6 Install Extension Console Ninja
+4.7 Install the Multiple cursor case preserve Extention by Cardinal90
+
+5. Tailwind Css installation with vite
+Open a new terminal 
+-> Open site https://tailwindcss.com/docs/guides/vite
+-> npm install -D tailwindcss postcss autoprefixer
+-> npx tailwindcss init -p   ( This will create a Tailwind config file & -p will create a postcss config file )
+-> copy the tailwind.config.js from the site and paste in the original config file 
+-> Add the Desired font style in the theme: { extend: { as fontFamily: {
+-> Add the Desired grid columns in the theme: { extend: { as gridTemplateColumns: {
+
+-> open Index.css and write
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+6. Enter the server inside "scripts" in  package.json file
+-> Using the server port 8000 for the json server
+-> enter the path to the json file
+-> To check if server is running or not .. enter in browser http://localhost:8000/jobs
+
+7. Key Features and concepts used 
+-> Async, Await used in JobListings.js component
+-> Proxy server setup and implementation in vite.config.js
+
+
+8. Git setup
+-> In terminal type -> git init
+
