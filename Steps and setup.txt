@@ -81,5 +81,11 @@ Open a new terminal
 
 
 8. Git setup
+-> npm install gh-pages --save-dev
 -> In terminal type -> git init
+-> git add .
+-> git commit -m "Initial commit" 
+-> git remote add origin https://github.com/shreyansh225/Job_Portal_React_Full.git
+-> git remote -v
+-> git push -u origin master
 
