@@ -5,7 +5,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "concurrently --kill-others-on-fail \"npm run server\" \"npm run build\"",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "dev-exposed": "vite --host",
