@@ -87,5 +87,5 @@ Open a new terminal
 -> git commit -m "Initial commit" 
 -> git remote add origin https://github.com/shreyansh225/Job_Portal_React_Full.git
 -> git remote -v
--> git push -u origin master
+-> git push -u origin main
 
